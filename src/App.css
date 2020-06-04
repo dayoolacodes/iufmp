@@ -1,0 +1,76 @@
+.Navbar{
+    position: relative;
+    z-index: 1;
+    letter-spacing: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: normal; 
+    color: white;
+    width: 100%;
+    display:inline-block;
+}
+
+
+.myNav {
+    position: relative;
+    letter-spacing: 2px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold; 
+    /* float: left; */
+    display: block;
+    color: gray;
+    padding: 14px 0px;
+    text-decoration: none;
+    font-size: 17px;
+    /* border-bottom: 3px solid transparent; */
+  }
+
+
+
+  
+  .myNav :hover {
+    border-bottom: 3px solid grey;
+    height: 150%;
+    color: darkgray;
+    cursor: pointer;
+    width: 100%;
+  }
+  
+ 
+
+.Navbar a {
+    float: left;
+    display: block;
+    color: black;
+    padding: 14px 30px;
+    text-decoration: none;
+    font-size: 17px;
+    border-bottom: 3px solid transparent;
+  }
+  
+  .Navbar a:hover {
+    border-bottom: 3px solid grey;
+    
+  }
+  
+  .Navbar a.active {
+    border-bottom: 3px solid grey;
+  }
+  
+
+
+.emergencyCall{
+background-color: tomato;
+border-radius: 5px;
+width:  fit-content;
+border: 20px;
+
+
+
+}
+
+.views{
+    color: white;
+    margin-left: 50px;
+    cursor: pointer;
+    padding-top: 5px;
+}
