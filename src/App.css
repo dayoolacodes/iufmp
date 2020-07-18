@@ -1,4 +1,4 @@
-.Navbar{
+/* .Navbar{
     position: relative;
     z-index: 1;
     letter-spacing: 2px;
@@ -7,22 +7,22 @@
     color: white;
     width: 100%;
     display:inline-block;
-}
+} */
 
 
-.myNav {
+/* .myNav {
     position: relative;
     letter-spacing: 2px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: bold; 
-    /* float: left; */
+    float: left;
     display: block;
     color: gray;
     padding: 14px 0px;
     text-decoration: none;
     font-size: 17px;
-    /* border-bottom: 3px solid transparent; */
-  }
+    border-bottom: 3px solid transparent;
+  } 
 
 
 
@@ -58,15 +58,7 @@
   
 
 
-.emergencyCall{
-background-color: tomato;
-border-radius: 5px;
-width:  fit-content;
-border: 20px;
 
-
-
-}
 
 .views{
     color: white;
@@ -74,3 +66,4 @@ border: 20px;
     cursor: pointer;
     padding-top: 5px;
 }
+*/
