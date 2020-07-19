@@ -168,6 +168,7 @@ class App extends Component {
                 existingStructureValue={this.state.existingStructureValue}
                 extensiveFloodValue ={this.state.extensiveFloodValue}
                 waterSourcesValue={this.state.waterSourcesValue}
+                damSitesValue={this.state.damSitesValue}
                 floodProneValue ={this.state.floodProneValue}
                 proposedCulvertsValue={this.state.proposedCulvertsValue}
                 proposedDrainageValue={this.state.proposedDrainageValue}
@@ -195,12 +196,13 @@ class App extends Component {
                 existingStructureValue={this.state.existingStructureValue}
                 extensiveFloodValue ={this.state.extensiveFloodValue}
                 waterSourcesValue={this.state.waterSourcesValue}
+                damSitesValue={this.state.damSitesValue}
                 floodProneValue ={this.state.floodProneValue}
                 proposedCulvertsValue={this.state.proposedCulvertsValue}
                 proposedDrainageValue={this.state.proposedDrainageValue}
                 lakeOfProposedValue = {this.state.lakeOfProposedValue}
                 potentialLakesValue = {this.state.potentialLakesValue}
-                potentialDamsValue = {this.state.potentialDamsValue}
+                potentialDamsValue = {this.state.potentialDamsValue} 
                 />
                 {/* {console.log(this.state.radioValue, "in App.js")} */}
                 

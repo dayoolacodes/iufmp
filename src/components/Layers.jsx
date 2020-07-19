@@ -44,7 +44,7 @@ class Layers extends Component {
     <p> <Button className={this.potentialLakesClassName()} variant="outline-dark" onClick={this.props.handlePotentialLakesDisplay}> Potential Lakes </Button>  </p>
     <p> <Button className={this.potentialDamsClassName()} variant="outline-dark" onClick={this.props.handlePotentialDamsDisplay}> Potential Dams </Button>  </p>
     </div> 
-    
+     
       );
   }
   builtUpClassName(){

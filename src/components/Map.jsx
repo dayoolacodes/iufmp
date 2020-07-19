@@ -238,7 +238,7 @@ class Map extends Component {
                     'circle-radius': 5,
                     'circle-color': '#037036'
                 },
-                'filter': ['==', '$type', 'Point']
+                'filter': ['==', '$type', 'Point'] 
             });
 
             map.addLayer({
