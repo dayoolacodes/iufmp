@@ -1,0 +1,26 @@
+.sidebarStyle {
+    display: block;
+    position: absolute;
+    top: 40px;
+    left: 0;
+    margin: 5px;
+    background-color: #404040;
+    color: #ffffff;
+    z-index: 1;
+    padding: 6px;
+    font-weight: bold;
+    }
+    
+.mapContainer {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    }
+
+    /* .app{
+     position: fxixed; 
+     width: 100%;
+    z-index: 2; 
+    } */

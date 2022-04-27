@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.36b0a90e.chunk.css",
+    "main.js": "/static/js/main.7292c183.chunk.js",
+    "main.js.map": "/static/js/main.7292c183.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8deac8b5.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8deac8b5.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d4049214.chunk.js": "/static/js/2.d4049214.chunk.js",
+    "static/js/2.d4049214.chunk.js.map": "/static/js/2.d4049214.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.594d8d760c1f772d97085ee9a00f0fac.js": "/precache-manifest.594d8d760c1f772d97085ee9a00f0fac.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.36b0a90e.chunk.css.map": "/static/css/main.36b0a90e.chunk.css.map",
+    "static/js/2.d4049214.chunk.js.LICENSE.txt": "/static/js/2.d4049214.chunk.js.LICENSE.txt",
+    "static/media/ibadan.png": "/static/media/ibadan.243e776f.png",
+    "static/media/ibadan2.jpg": "/static/media/ibadan2.0ca5fb93.jpg",
+    "static/media/ibadan3.PNG": "/static/media/ibadan3.7a169b84.PNG",
+    "static/media/ibadan4.PNG": "/static/media/ibadan4.c3d9e2b7.PNG",
+    "static/media/ibadan5.PNG": "/static/media/ibadan5.81284ab5.PNG",
+    "static/media/ibadan6.PNG": "/static/media/ibadan6.c4f77520.PNG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8deac8b5.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.d4049214.chunk.js",
+    "static/css/main.36b0a90e.chunk.css",
+    "static/js/main.7292c183.chunk.js"
+  ]
+}
